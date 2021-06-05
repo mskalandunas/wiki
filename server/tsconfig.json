@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "ESNext",
+    "rootDir": "./",
+    "outDir": "./build",
+    "esModuleInterop": false,
+    "strict": true,
+    "allowSyntheticDefaultImports": true
+  }
+}
