@@ -2,7 +2,7 @@ import { Router } from 'express';
 
 export const router = Router();
 
-const getController = (req, res) => {
+const getController = (req: any, res: any) => {
   console.log(req);
   console.log(res);
 

@@ -3,7 +3,7 @@
     "target": "esnext",
     "module": "ESNext",
     "rootDir": "./",
-    "outDir": "./build",
+    "outDir": "./dist",
     "esModuleInterop": false,
     "strict": true,
     "allowSyntheticDefaultImports": true
